@@ -1,0 +1,36 @@
+<!-- codigos/web/index.html -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programação para Todos</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <header>
+        <h1>Curso de Programação Comunitária</h1>
+        <nav>
+            <ul>
+                <li><a href="#modulo1">Módulo 1</a></li>
+                <li><a href="#modulo2">Módulo 2</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="modulo1">
+            <h2>Lógica de Programação</h2>
+            <div class="exercicio">
+                <h3>Exercício 1: Calculadora</h3>
+                <p>Implemente uma calculadora simples em Python.</p>
+                <a href="../python/calculadora.py" download>Código Exemplo</a>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Projeto desenvolvido por Expedito Clécio Nunes - RA 2024049776</p>
+    </footer>
+</body>
+</html>
