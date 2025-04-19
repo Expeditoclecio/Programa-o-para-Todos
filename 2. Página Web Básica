@@ -1,0 +1,12 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Aula de HTML</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <h1>Programação para Todos</h1>
+    <p>Bem-vindo ao nosso projeto!</p>
+</body>
+</html>
