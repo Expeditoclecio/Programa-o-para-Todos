@@ -1,0 +1,10 @@
+<!-- materiais/exercicios.md -->
+# Exercícios de Lógica
+
+## Módulo 1 - Lógica de Programação
+
+### Exercício 1: Média Aritmética
+Escreva um programa que calcule a média de 3 notas e mostre se o aluno foi aprovado (média ≥ 7).
+
+```python
+# Seu código aqui
